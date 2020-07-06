@@ -1,1 +1,4 @@
-style.css
+h1, h2 {
+	background: #0000FF;
+	color: #FF1493; 
+}
