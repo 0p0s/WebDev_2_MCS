@@ -1,0 +1,60 @@
+@import url(reset.css);
+
+/* font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Roboto Slab', serif; */
+
+.outer {
+	font-size: 0px;
+}
+
+.header {
+	background-color: navy;
+	height: 60px;
+	line-height: 60px;
+}
+
+div {
+	height: 380px;
+	width: 320px;
+	border: 2px solid navy;
+	display: inline-block;
+	margin: 100px 20px 100px 70px;
+	padding: 25px;
+	vertical-align: top;
+	font-size: 18px;
+	font-kerning: 0,5px;
+}
+
+h1 {
+	font-family: "Roboto Slab";
+	font-weight: normal;
+	font-size: 30px;
+	text-transform: uppercase; 
+	color: white;
+	margin-left: 20px;
+}
+.hedline {
+	font-family: Roboto Slab;
+	font-size: 20px;
+	color: navy;
+}
+.first, .second, .third {
+font-family: 'Montserrat Alternates', sans-serif;
+font-size: 16px;
+font-weight: lighter;
+}
+
+.footer {
+	height: 60px;
+	background-color: navy;
+	line-height: 60px;
+}
+
+h3 {
+	font-family: "Roboto Slab";
+	font-weight: normal;
+	font-size: 16px;
+	color: white;
+	margin-left: 20px;
+
+}
